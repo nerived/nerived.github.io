@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android",
+      "package_name": "com.marathonbet.sportsbook",
+      "sha256_cert_fingerprints": [
+        "B4:8C:12:3A:0B:D9:B8:F6:FF:A7:15:B1:5F:2F:D9:5C:DA:B6:14:B3:1F:DD:9A:12:D5:8B:C0:67:78:F3:FE:7C"
+      ]
+    }
+  }
+]
