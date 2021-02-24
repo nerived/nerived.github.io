@@ -23,16 +23,16 @@
       "id": "entry.2039723628",
       "questions": [
         {
-          "value": "Less than 18"
+          "value": "less than 18"
         },
         {
-          "value": "18 - 24"
+          "value": "18-24"
         },
         {
           "value": "25 - 34"
         },
         {
-          "value": "35 - 45"
+          "value": "35- 45"
         },
         {
           "value": "Over 45"
@@ -40,15 +40,15 @@
       ]
     },
     {
-      "title": "Do you have any secret crush from your contacts  who you admire and dream to start conversation with?",
+      "title": "Do you have any secret crush from your contacts who you admire and dream to start conversation with?",
       "type": "radio",
       "id": "entry.1034400174",
       "questions": [
         {
-          "value": "Yes, I have."
+          "value": "Yes, I have"
         },
         {
-          "value": "I don’t have any secret crush. "
+          "value": "I don’t have any secret crush"
         }
       ]
     },
@@ -77,7 +77,7 @@
       "id": "entry.956248052",
       "questions": [
         {
-          "value": "Yes if I’m sure that it’s mutual"
+          "value": "Yes, if I’m sure that it’s mutual"
         },
         {
           "value": "No, I want to stay secret"
@@ -93,19 +93,19 @@
       "id": "entry.1969851684",
       "questions": [
         {
-          "value": "That helps you to learn each other better before having any relationships openly."
+          "value": "That helps you to learn each other better before having any relationships openly"
         },
         {
-          "value": "Because I’m LGBTQ and I’m afraid that my crush is not, so I want to talk anonymously before."
+          "value": "Because I’m LGBTQ and I’m afraid that my crush is not, so I want to check"
         },
         {
-          "value": "I’m too shy to talk openly."
+          "value": "I’m too shy to talk openly"
         },
         {
-          "value": "I like both approaches, depending on the situation."
+          "value": "I like both approaches, depending on the situation"
         },
         {
-          "value": "I don’t like anonymous communication, I prefer to talk with people openly."
+          "value": "I don’t like anonymous communication, I prefer to talk with people openly"
         }
       ]
     },
