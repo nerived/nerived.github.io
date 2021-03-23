@@ -1,0 +1,2 @@
+(this["webpackJsonpparts-and-service"]=this["webpackJsonpparts-and-service"]||[]).push([[8],{140:function(e,r,s){"use strict";s.r(r),s.d(r,"Offers",(function(){return n}));var t=s(0),n=function(){return"Offers"};r.default=Object(t.memo)(n)}}]);
+//# sourceMappingURL=8.2d10f471.chunk.js.map

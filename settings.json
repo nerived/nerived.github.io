@@ -1,0 +1,12 @@
+{
+  "BASE_URL": {
+    "prod": {
+      "protocol": "http",
+      "host": "api.leads-man.com"
+    },
+    "dev": {
+      "protocol": "http",
+      "host": "api.leads-man.com"
+    }
+  }
+}
