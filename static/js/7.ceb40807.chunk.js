@@ -1,2 +1,0 @@
-(this["webpackJsonpparts-and-service"]=this["webpackJsonpparts-and-service"]||[]).push([[7],{138:function(t,n,e){"use strict";e.r(n),e.d(n,"Integration",(function(){return s}));var r=e(0),s=function(){return"Integration"};n.default=Object(r.memo)(s)}}]);
-//# sourceMappingURL=7.ceb40807.chunk.js.map

@@ -1,1 +1,0 @@
-{"version":3,"sources":["modules/Support/pages/Support/index.jsx"],"names":["Support","memo"],"mappings":"+HAAA,0DAMaA,EAJM,WACjB,MAAO,WAIMC,yBAAKD","file":"static/js/10.2be62fa1.chunk.js","sourcesContent":["import { memo } from 'react'\n\nconst SupportRaw = () => {\n  return 'Support'\n}\n\nexport const Support = SupportRaw\nexport default memo(Support)\n"],"sourceRoot":""}

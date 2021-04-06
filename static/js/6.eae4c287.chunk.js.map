@@ -1,1 +1,0 @@
-{"version":3,"sources":["modules/Finance/pages/Finance/index.jsx"],"names":["Finance","memo"],"mappings":"8HAAA,0DAMaA,EAJM,WACjB,MAAO,WAIMC,yBAAKD","file":"static/js/6.eae4c287.chunk.js","sourcesContent":["import { memo } from 'react'\n\nconst FinanceRaw = () => {\n  return 'Finance'\n}\n\nexport const Finance = FinanceRaw\nexport default memo(Finance)\n"],"sourceRoot":""}

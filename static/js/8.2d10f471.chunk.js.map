@@ -1,1 +1,0 @@
-{"version":3,"sources":["modules/Offers/pages/Offers/index.jsx"],"names":["Offers","memo"],"mappings":"8HAAA,yDAMaA,EAJK,WAChB,MAAO,UAIMC,yBAAKD","file":"static/js/8.2d10f471.chunk.js","sourcesContent":["import { memo } from 'react'\n\nconst OffersRaw = () => {\n  return 'Offers'\n}\n\nexport const Offers = OffersRaw\nexport default memo(Offers)\n"],"sourceRoot":""}
